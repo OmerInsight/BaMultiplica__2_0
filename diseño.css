@@ -1,4 +1,30 @@
-*{background-color: black}
-h1, h2, h3, h4, h5, h6 { color:aqua }
-#Parrafo {color: blueviolet;}
-p { color: red;}
+/*Primera Practica Css Dar Color a los textos*/
+* {background-color: black}
+h1{color: pink;
+  margin-bottom: -25px
+}
+h2, h3, h4, h5, h6 { color: #66ffcc}
+pre { color: red;}
+#ejer1 {margin-bottom:  -25px}
+#Parrafo {color: blueviolet}
+#CssColor {color: beige;
+  margin-bottom: 50px
+}
+
+/*Segunda Pfactica Usar tamaños font size*/
+#Arg1 {
+  color: cyan; font-size: 20px}
+#Arg2 {
+  color: white;font-size: 30px}
+#Arg3 {
+  color: cyan;font-size: 40px}
+li{color: yellow}
+{color: yellow}
+.Formulario1 {
+color: yellow;
+  border-color: yellow
+}
+input{border-color: yellow}
+textarea{border-color: yellow}
+button{color: greenyellow; border-color: yellow}
+img{width: 360px; height: 200px}
